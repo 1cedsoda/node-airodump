@@ -1,0 +1,32 @@
+{
+  "name": "node-airodump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phyyyl/node-airodump.git"
+  },
+  "author": "phyyyl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phyyyl/node-airodump/issues"
+  },
+  "homepage": "https://github.com/phyyyl/node-airodump#readme",
+  "keywords": [
+    "aircrack",
+    "aircrack-ng",
+    "wifi",
+    "airodump",
+    "airodump-ng",
+    "airmon",
+    "airmon-ng",
+    "ap/ssid",
+    "ssid",
+    "scanner",
+    "discovery",
+    "bssid",
+    "essid",
+    "cli"
+  ]
+}
